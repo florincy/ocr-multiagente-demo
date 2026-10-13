@@ -2,7 +2,7 @@
 
 [Reproduzir a demonstração](https://florincy.github.io/ocr-multiagente-demo/)
 
-Vídeo de 26,5 segundos, H.264, 1080 × 1080, sem áudio. A caligrafia do campo numérico é original; os dados ao redor estão ocultos. A interface reconstitui leituras registradas, incluindo a revisão humana de 25,1 °C. Esta apresentação não é uma execução ao vivo nem uma medição de precisão.
+Vídeo de 38 segundos, H.264, 1080 × 1080, sem áudio. A caligrafia do campo numérico é original; os dados ao redor estão ocultos. A interface compara dois percursos reais: A/B inconclusivos, árbitro C e confirmação humana de 25,1 °C; A/B concordantes em 27,4 °C e registro por consenso sem encaminhamento humano, sujeito à auditoria por amostragem. Esta apresentação não é uma execução ao vivo nem uma medição de precisão.
 
 ## Conteúdo publicado
 
