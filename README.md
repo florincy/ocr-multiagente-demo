@@ -2,7 +2,7 @@
 
 [Reproduzir a demonstração](https://florincy.github.io/ocr-multiagente-demo/)
 
-Vídeo de 25,5 segundos, H.264, 1080 × 1080, sem áudio. A caligrafia do campo numérico é original; os dados ao redor estão ocultos. A interface reconstitui leituras registradas, incluindo a revisão humana de 25,1 °C. Esta apresentação não é uma execução ao vivo nem uma medição de precisão.
+Vídeo de 26,5 segundos, H.264, 1080 × 1080, sem áudio. A caligrafia do campo numérico é original; os dados ao redor estão ocultos. A interface reconstitui leituras registradas, incluindo a revisão humana de 25,1 °C. Esta apresentação não é uma execução ao vivo nem uma medição de precisão.
 
 ## Conteúdo publicado
 
@@ -22,3 +22,4 @@ python -m http.server 8080
 ```
 
 Abra http://127.0.0.1:8080/. A página não usa serviços externos nem envia dados.
+
